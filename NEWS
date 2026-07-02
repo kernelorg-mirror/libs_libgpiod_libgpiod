@@ -1,3 +1,9 @@
+libgpiod v2.3.1
+===============
+
+Bug fixes:
+- fix several build configuration issues after the conversion to meson
+
 libgpiod v2.3
 =============
 
